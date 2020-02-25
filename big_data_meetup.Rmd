@@ -343,22 +343,22 @@ Example
 <a href = "http://core-comp-test.edanalytics.net:8080/admin/airflow/graph?execution_date=2019-09-12T20%3A53%3A52&arrange=LR&root=&dag_id=load_dw_ggusd_1819&_csrf_token=ImQ0MDMwMmM1NGZiNjg4YWQxZDdkMzY3NjExYzg4ZmJkMmFiZmU1MWEi.ETX4tQ.o2c1KuCBjhHDBFBM2816JeFbHAQ">
 A DAG with this operator implemented</a>
 
-<img src="dag_1.png">
+<img src="dag_1.PNG">
 
 ---
 
 <a href = "http://core-comp-test.edanalytics.net:8080/admin/airflow/log?dag_id=growth_sausd_1819&task_id=hs_fun_run_district_growth&execution_date=2019-12-17T19%3A39%3A05">
 a successful R call returning XCOM </a>
 
-<img src="dag_2.png">
-<img src="dag_21.png">
+<img src="dag_2.PNG">
+<img src="dag_21.PNG">
 
 ---
 
 <a href = "http://core-comp-test.edanalytics.net:8080/admin/airflow/log?task_id=format_dist_results&dag_id=growth_mcoe_1718&execution_date=2020-01-22T21:00:00">
 and one with an error</a>
 
-<img src="dag_3.png">
+<img src="dag_3.PNG">
 
 ---
 
@@ -424,7 +424,7 @@ and one with an error</a>
   
 ## Using R Shiny for inventory
 
-<img src="shiny.png">
+<img src="shiny.PNG">
 
 ---
 

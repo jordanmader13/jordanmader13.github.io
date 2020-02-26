@@ -27,8 +27,10 @@ class: inverse, center, middle
 # Data Engineering at Education Analytics 
 
 ### Jordan Mader, Director of Analytics Engineering
+##### jmader@edanalytics.org
 
 ### Erik Joranlien, Manager of Data Engineering
+##### ejoranlien@edanalytics.org
 
 #### jordanmader13.github.io/big_data_meetup
 
@@ -73,7 +75,7 @@ class: inverse, center, middle
 
 --
 
--	Hiring (research analysts and data engineers!)
+-	Hiring (research analysts and data engineers!): <a href="https://edanalytics.org/careers"> https://edanalytics.org/careers </a>
 
 --
 
